@@ -1,5 +1,5 @@
 # Mnist-Classification
-## This is for HSG machine using python project
+## This is for HSG (University of St.Gallen) machine using python project
 ## use original mnist dataset for training and testing
 
 First use LDA and PCA for dimension reduction.
